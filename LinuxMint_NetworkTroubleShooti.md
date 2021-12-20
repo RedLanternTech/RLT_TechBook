@@ -13,4 +13,4 @@ Includes Windows Equivalents
 | systemd-resolve --status | ipconfig /all | Find DNS Servers|
 | sudo service network-manager restart | netsh int ip reset | Restart the TCP/IP Stack
 | hostnamectl | ipconfig | Check Current Hostname |
-| sudo hostnamectl set-hostname **New_Hostname** | - | Set a new Hostname |
+| sudo hostnamectl set-hostname **New_Hostname** | set-hostname (PowerShell) | Set a new Hostname |
