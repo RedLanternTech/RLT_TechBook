@@ -4,6 +4,7 @@ This is for how I got Hangul (Korean) input working in ArcoLinux (will probably 
 Commands to run in the terminal
 
 `sudo pacman -S fcitx5-im fcitx5-hangul adobe-source-han-sans-kr-fonts ibus-hangul `
+
 When asked, I do install all the additional items for fcitx5-im
 
 I then add the following lines of code into /etc/environment (I used vim).
