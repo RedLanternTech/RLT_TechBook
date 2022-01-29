@@ -4,13 +4,8 @@ one command but while working on it, I had went piece-by-piece.  I know this met
 
 Commands to run in the terminal
 
-`sudo pacman -S fcitx5-im`
-
-`sudo pacman -S fcitx5-hangul`
-
-`sudo pacman -S adobe-source-han-sans-kr-fonts`
-
-`sudo pacman -S ibus-hangul`
+`sudo pacman -S fcitx5-im fcitx5-hangul adobe-source-han-sans-kr-fonts ibus-hangul `
+When asked, I do install all the additional items for fcitx5-im
 
 I then add the following lines of code into /etc/environment (I used vim).
 
