@@ -1,5 +1,7 @@
 # Notes
-This is for how I got Hangul (Korean) input working in ArcoLinux (will probably work in Manjaro or Arch).  I know this method works as of 1-29-22.  
+This is for how I got Hangul (Korean) input working in ArcoLinux (will probably work in Manjaro or Arch).  I know this method works as of 1-29-22.
+
+**In Manjaro Cinamon, for whatever reason, the config only comes up if you have a text field open or its ready for input.  So open either office or a terminal**
 
 Commands to run in the terminal
 
