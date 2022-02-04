@@ -6,6 +6,6 @@ This will probably work in ArcoLinux and Manjaro but I haven't tried.  I basical
 
 One Command To Run
 
-`sudo yay -S mint-themes-legacy mint-y-icons mint-x-icons mint-sounds`
+`yay -S mint-themes-legacy mint-y-icons mint-x-icons mint-sounds`
 
-Thats it, 
+That's it 
