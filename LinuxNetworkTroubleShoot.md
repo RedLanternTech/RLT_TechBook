@@ -1,4 +1,4 @@
-# Linux Mint Network Troubleshooting Commands
+# Linux Network Troubleshooting Commands
 
 Includes Windows Equivalents 
 
