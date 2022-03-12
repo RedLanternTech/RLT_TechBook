@@ -1,6 +1,6 @@
 # Linux Network Troubleshooting Commands
 
-Includes Windows Equivalents 
+Includes Windows Equivalents.  These apply to Linux Mint but should work on other distributions.   
 
 | Linux Command | Windows Equiv | Description |
 | ------------- | ------------- | ----------- |
