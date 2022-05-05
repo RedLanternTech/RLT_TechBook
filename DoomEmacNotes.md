@@ -26,17 +26,26 @@
 | space, w, w | Switch Between Splits |
 | space, w, c | Close Buffer |
 
-# VI Commands Copy and Paste 
+## VI Commands - Basics 
 | Command | Action |
 | ------- | ------ |
-| v | Enters Visual Mode for Selection |
+| :w | Save File |
+| :wq | Save and Quit |
+| :q! | Quit Without Saving | 
+| i | Enter Insert Mode |
+| v | Enter Visual Mode (for Selection) |
+| Escape Key | Enter Command Mode |
+
+## VI Commands - Copy and Paste 
+| Command | Action |
+| ------- | ------ |
+| dw | Cut a Word |
+| d$ | Cut from the Cursor until end of the line |
 | dd | Cut whole line |
 | yy | Copy (Yank) whole line |
-| p | Put (Lower Case Below Cursor, Upper Case Above) |
+| p | Put (Lower Case At Cursor, Upper Case Above) |
 | u | Undo |
 | ctrl+r | Redo |
-
-
 
 ## Markdown commands
 | Command | Action |
