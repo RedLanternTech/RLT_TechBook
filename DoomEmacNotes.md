@@ -63,3 +63,9 @@
 | Command | Action |
 | ------- | ------ |
 | space, m, p | Preview (must have pandoc installed) |
+
+## About This Guide. 
+
+This guide was born out of the the [DistroTube Video](https://odysee.com/@DistroTube:2/doom-emacs-on-day-one-%28learn-these:f?r=YH6b6kkxUbhcWrE3DHyTiQmowYPigoAj) along with posts to Reddit, going though the VI Tutorial, and a desire to learn something new.  Emacs is one interesting beast and can do so much.  Also its oddly satisfying to have to use the mouse.  Heck even the spell checker, I can just move the cursor and hit enter, just wild.  Anyway, this guide may be wrong to someone but it works for me at the moment.  Hopefully it will help someone out.  
+
+Thank you and 73's.
