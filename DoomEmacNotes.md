@@ -47,6 +47,18 @@
 | u | Undo |
 | ctrl+r | Redo |
 
+## MAGIT Commands
+| Command | Action |
+| ------- | ------ |
+| Space, gg | Open MAGIT |
+| F,u | Pull From Origin|
+| s | Stage Changes |
+| cc | Write Change Message |
+| Ctrl-c, Ctrl-c | Finish Commit message |
+| p, u | Push to Origin |
+| ? | Help |
+| Tab | See All Hunks |
+
 ## Markdown commands
 | Command | Action |
 | ------- | ------ |
