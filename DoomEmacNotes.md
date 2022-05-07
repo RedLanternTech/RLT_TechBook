@@ -16,6 +16,7 @@
 |space, b, p | Previous Buffer|
 |space, b, n | Next Buffer |
 |space, b, i | ibuffer |
+|space, b, N | New Blank Buffer |
 
 ## Manipulating Splits
 
