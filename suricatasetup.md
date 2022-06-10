@@ -10,11 +10,12 @@
 - set HOME_NET to the correct Network IP.  For Example, if your eth0 on the Pi is on 10.0.0.1 with a subnet mask of 255.255.255.0, your Network IP is 10.0.0.0/24
 - change default-rule-path to /var/lib/suricata/rules
 6. Save and close the file 
-7. run `suricata-update`
-8. run `sudo chmod -R 755 /var/lib/suricata/rules`
-9. run `suricata-update update-sources`
-10. run `suricata-update enable-source et/open`
-11. Run `suricata-update` again 
-12. Run `sudo systemctl enable suricata.service`
-13. Run `sudo systemctl start suricata.serivce`
-
+7. Run `sudo systemctl enable suricata.service`
+8. Run `sudo systemctl start suricata.serivce`
+9. run `sudo suricata-update`
+10. run `sudo chmod -R 755 /var/lib/suricata/rules`
+11. Run `sudo systemctl restart suricata.serivce`
+12. Check /var/log/suricata/suricata.log.  If you see SC_ERR_NO_RULES(42), re-run steps 10 and 11 
+13. Wait 2 minutes 
+14. On another machine, run `curl http://testmynids.org/uid/index.html` 
+15. Detections will start being logged to fast.log
