@@ -1,4 +1,4 @@
-# Suricata Setup on a Raspbery Pi 
+# Suricata Setup on a Raspberry Pi 
 
 1. Start with either a fresh copy of Raspbery Pi OS or Ubuntu Server. 
 - I like Raspbery Pi os but make sure to set the localization is `raspi-config` or Suricata will have an issue later. 
