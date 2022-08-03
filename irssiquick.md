@@ -12,3 +12,14 @@
 | /kick or /ban           | Kicks or bans a user                        |
 | Alt+Number              | Jumps between windows in IRSSI              |
 |                         |                                             |
+
+# To add a new network using LiberaChat as an example 
+- `/network add LiberaChat`
+- `/server add -network LiberaChat -tls -tls_verify irc.libera.chat 6697`
+- `/save`
+
+# To update after you register your nickname (using MyNickName as the nickname and MyNickPassword as the password)
+- `/network modify -sasl_username MyNickName -sasl_password MyNickPassword -sasl_mechanism PLAIN LiberaChat`
+
+# To auto connect each time IRSSI starts
+- `/server add -auto -network Liberachat -tls -tls_verify irc.libera.chat 6697`
