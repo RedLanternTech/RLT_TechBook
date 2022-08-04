@@ -30,14 +30,15 @@
 | space, w, c | Close Buffer |
 
 ## VI Commands - Basics 
-| Command | Action |
-| ------- | ------ |
-| :w | Save File |
-| :wq | Save and Quit |
-| :q! | Quit Without Saving | 
-| i | Enter Insert Mode |
-| v | Enter Visual Mode (for Selection) |
-| Escape Key | Enter Command Mode |
+| Command    | Action                            |
+|------------|-----------------------------------|
+| `:w`       | Save a file                       |
+| `:wq`      | Save and Quit                     |
+| `q!`       | Quit Without Saving               |
+| i          | Enter Insert Mode                 |
+| v          | Enter Visual Mode (for Selection) |
+| Escape Key | Enter Command Mode                |
+| gg         | Move to the top of the Document   |
 
 ## VI Commands - Copy and Paste 
 | Command | Action |
