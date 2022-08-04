@@ -11,6 +11,7 @@
 | /list                   | Lists the Rooms (don't do this)             |
 | /kick or /ban           | Kicks or bans a user                        |
 | Alt+Number              | Jumps between windows in IRSSI              |
+| /network                | List the networks that are saved            |
 |                         |                                             |
 
 # To add a new network using LiberaChat as an example 

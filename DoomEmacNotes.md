@@ -10,13 +10,15 @@
 
 ## Manipulating Buffers 
 
-| Command | Action |
-| ------- | ------ |
-|Space, b, k | Kill a Buffer|
-|space, b, p | Previous Buffer|
-|space, b, n | Next Buffer |
-|space, b, i | ibuffer |
-|space, b, N | New Blank Buffer |
+| Command     | Action           |
+|-------------|------------------|
+| Space, b, k | Kill a Buffer    |
+| space, b, p | Previous Buffer  |
+| space, b, n | Next Buffer      |
+| space, b, i | ibuffer          |
+| space, b, N | New Blank Buffer |
+| space, q S  | Save a Buffer    |
+| space, q L  | Load a Buffer    |
 
 ## Manipulating Splits
 
