@@ -11,7 +11,7 @@
 - change default-rule-path to /var/lib/suricata/rules
 6. Save and close the file 
 7. Run `sudo systemctl enable suricata.service`
-8. Run `sudo systemctl start suricata.serivce`
+8. Run `sudo systemctl start suricata.service`
 9. run `sudo suricata-update`
 10. run `sudo chmod -R 755 /var/lib/suricata/rules`
 11. Run `sudo systemctl restart suricata.serivce`
