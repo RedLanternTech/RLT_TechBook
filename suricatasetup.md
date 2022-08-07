@@ -18,4 +18,4 @@
 12. Check /var/log/suricata/suricata.log.  If you see SC_ERR_NO_RULES(42), re-run steps 10 and 11 
 13. Wait 2 minutes 
 14. On another machine, run `curl http://testmynids.org/uid/index.html` 
-15. Detections will start being logged to fast.log
+15. Detections will start being logged to /var/log/suricata/fast.log
