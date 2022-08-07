@@ -14,7 +14,7 @@
 8. Run `sudo systemctl start suricata.service`
 9. run `sudo suricata-update`
 10. run `sudo chmod -R 755 /var/lib/suricata/rules`
-11. Run `sudo systemctl restart suricata.serivce`
+11. Run `sudo systemctl restart suricata.service`
 12. Check /var/log/suricata/suricata.log.  If you see SC_ERR_NO_RULES(42), re-run steps 10 and 11 
 13. Wait 2 minutes 
 14. On another machine, run `curl http://testmynids.org/uid/index.html` 
