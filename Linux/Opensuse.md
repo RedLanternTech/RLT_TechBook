@@ -16,3 +16,18 @@
 - To Install Snap:  `snap install <package>`
 
 Note that Discovery in KDE seems to integrate pretty darn well with Flatpak
+
+## Setup PAM for KDE Wallet AutoLogin
+- make sure to use Blowfish and that your password for the wallet is the same as the login
+- Install `sudo zypper install pam_kwallet`
+
+## Install the Codecs
+`sudo zypper install opi`
+`opi codecs`
+
+## Install Microsoft Fonts
+Open Yast → Software Management → Search for fetchmsttfonts → Right-click → Install → Accept
+
+# Sources for this info
+https://www.reddit.com/r/openSUSE/comments/p6q60u/codecs_its_easier_to_install_them_than_you_think/
+https://averagelinuxuser.com/after-installing-opensuse/
