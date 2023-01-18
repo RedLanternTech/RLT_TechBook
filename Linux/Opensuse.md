@@ -26,7 +26,7 @@ Note that Discovery in KDE seems to integrate pretty darn well with Flatpak
 `opi codecs`
 
 ## Install Microsoft Fonts
-Open Yast → Software Management → Search for fetchmsttfonts → Right-click → Install → Accept
+`sudo zypper install fetchmsttfonts`
 
 # Sources for this info
 https://www.reddit.com/r/openSUSE/comments/p6q60u/codecs_its_easier_to_install_them_than_you_think/
