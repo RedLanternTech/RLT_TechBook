@@ -2,7 +2,7 @@
 
 ## Don't forget to enable the Community Repositories
 
-## Setup Snap and Flatpack [taken from here](https://linuxstoney.com/install-snap-and-flatpak-in-opensuse-tumbleweed/)
+## Setup Snap and Flatpak [taken from here](https://linuxstoney.com/install-snap-and-flatpak-in-opensuse-tumbleweed/)
 - `sudo zypper addrepo --refresh http://download.opensuse.org/repositories/system:/snappy/openSUSE_Tumbleweed/ snappy`
 - `sudo zypper install snapd flatpak`
 - `flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
