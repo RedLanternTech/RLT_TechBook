@@ -21,3 +21,6 @@ First, make sure your account is part of whatever group owns the tty devices
 - RTS/CTS
 - DTR +12v
 
+## in WSJTX
+- Set the Rig to FLRig and the network server to 127.0.0.1:12345
+
