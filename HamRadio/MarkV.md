@@ -12,7 +12,7 @@ First, make sure your account is part of whatever group owns the tty devices
 - Fldigi
 - Flrig
 - WSJT-X
-- XLog
+- KLog
 
 ## For FlRig to work, the settings need to be as follows:
 - Rig:  FT-1000MP-A
