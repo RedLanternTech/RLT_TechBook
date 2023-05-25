@@ -2,9 +2,9 @@
 
 | Task                                          | Completed |
 |-----------------------------------------------|-----------|
-| Install Rocky Linux in VM                     |           |
-| Install Docker                                |           |
-| Install Tailscale                             |           |
+| Install Rocky Linux in VM                     | yes       |
+| Install Docker                                | yes       |
+| Install Tailscale                             | yes       |
 | Install NextCloud AIO                         |           |
 | Confirm SSL Certificate is working            |           |
 | Perform Backup of NextCloud PI Files          |           |
