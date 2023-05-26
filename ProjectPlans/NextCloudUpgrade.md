@@ -5,11 +5,12 @@
 | Install Rocky Linux in VM                     | yes       |
 | Install Docker                                | yes       |
 | Install Tailscale                             | yes       |
-| Install NextCloud AIO                         |           |
-| Confirm SSL Certificate is working            |           |
+| Install NextCloud AIO                         | yes       |
+| Confirm SSL Certificate is working            | yes       |
 | Perform Backup of NextCloud PI Files          |           |
 | Perform Manual Export of Contacts             |           |
 | Perform Manual Export of Bookmarks            |           |
+| Perform Manual export of RSS Feeds            |           |
 | Stop NextCloudPI                              |           |
 | Install and start NextCloud AIO               |           |
 | Confirm SSL is working                        |           |
