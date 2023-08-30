@@ -3,7 +3,7 @@
 { config, pkgs, ... }:
 
 {
-    # Setup for Korean, Japaneese, and Chineese
+    # Setup for Korean, Japaneese, and Chinese
   fonts.fonts = with pkgs; [
   noto-fonts
   noto-fonts-cjk
