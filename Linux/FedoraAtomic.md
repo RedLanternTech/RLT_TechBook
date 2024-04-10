@@ -12,7 +12,7 @@
 - Change in /etc/rpm-ostreed.conf the line `AutomaticUpdatePolicy` to stage and reboot
 
 ## Get the Apps 
-`sudo rpm-ostree install nextcloud-client emacs ripgrep git neovim`
+`sudo rpm-ostree install nextcloud-client emacs ripgrep git neovim distrobox`
 `flatpak install com.brave.Browser io.freetubeapp.FreeTube org.mozilla.Thunderbird`
 
 
