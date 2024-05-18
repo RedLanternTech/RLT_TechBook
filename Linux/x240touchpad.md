@@ -6,7 +6,7 @@ To keep the touchpad working after a sleep, type `sudo grubby --update-kernel=/b
 
 In PopOS, run the command `sudo kernelstub -a "psmouse.synaptics_intertouch=0"`
 
-In Fedora Atomic based distros, run `sudo rpm-ostree sudo rpm-ostree kargs --editor`.  This will bring up the editor, at the end of the link of arguments already there, add `psmouse.synaptics_intertouch=0`
+In Fedora Atomic based distros, run `sudo rpm-ostree kargs --editor`.  This will bring up the editor, at the end of the link of arguments already there, add `psmouse.synaptics_intertouch=0`
 
 Sources for info:
 
