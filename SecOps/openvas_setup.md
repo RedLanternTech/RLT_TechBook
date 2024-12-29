@@ -7,7 +7,8 @@
 5. This takes a bit so give it like an hour
 6. To check.  `gvm-check-setup`.   Also in /var/log/gvm, `tail -f gvmd.log`
 7. To start if not running `gvm-start`.  Will be at https://127.0.0.1:9392
-8. To stop `gvm-stop`
+8. Once you confirm it works, go back into the console and run `sudo greenbone-feed-sync` to pull the config files
+9. To stop `gvm-stop`
 
 To get feeds if they didn't come down
 1. `greenbone-feed-sync --type GVMD_DATA`
