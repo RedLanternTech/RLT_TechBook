@@ -15,7 +15,7 @@ I leave my prefix as the default `CTRL + B`
 | Prefix + v | Vertical Split | Prefix + % |
 | Shift + Left or Right | Shift Windows | Prefix + either P or N |
 | Prefix + r | Reload tmux Configuration | |
-| Prefix + y | Syncronize Panes | |
+| Prefix + y | Synchronize Panes | |
 | Prefix + c | Create a New Window | |
 | Prefix + & | Close a Window | |
 | Prefix + Number | Go to that specific window | |
