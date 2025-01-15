@@ -23,7 +23,11 @@ I leave my prefix as the default `CTRL + B`
 | Prefix + d | Disconnects a Session | |
 
 Simple Commands for Outside of tmux
+
 `tmux ls` = To List All the Running Sessions
+
 `tmux attach -t 0` = To attach a specific session, in this case Session 0
+
 `tmux rename-session -t (session name or number)` = Rename a Session
+
 `tmux kill-session -t (session name or number)` = Kills a Session
