@@ -18,7 +18,7 @@
     - Arc Menu
         - Using Brisk as the menu
         - Setup with a context menu and enable launching its StandAlone Runner Menu with Alt+Space
-        - ![9abd6219e58deb72ece786c6b2af4dc0.png](../_resources/9abd6219e58deb72ece786c6b2af4dc0.png)
+        - ![9abd6219e58deb72ece786c6b2af4dc0.png](9abd6219e58deb72ece786c6b2af4dc0.png)
     - Blur my shell
     - Dash to Doc
     - Workspace Indicator
