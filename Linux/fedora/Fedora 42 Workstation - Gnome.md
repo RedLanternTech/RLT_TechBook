@@ -20,8 +20,9 @@
         - Setup with a context menu and enable launching its StandAlone Runner Menu with Alt+Space
         - ![9abd6219e58deb72ece786c6b2af4dc0.png](9abd6219e58deb72ece786c6b2af4dc0.png)
     - Blur my shell
+    - Caffeine
     - Dash to Doc
-    - Workspace Indicator
+    - Space Bar
 - Add Script to be able to toggle touchpad on and off
     - Code  
         
