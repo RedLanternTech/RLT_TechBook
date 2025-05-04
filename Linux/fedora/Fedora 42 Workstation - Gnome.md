@@ -11,6 +11,7 @@
         - Used to install all the following extensions **Except AppIndicator and KStatusNotifierItem support**
     - [Refine](https://flathub.org/apps/page.tesk.Refine)
         - Use Refine to give yourself back the Minimize and Maximize Buttons
+    - [Ignition](https://flathub.org/apps/io.github.flattool.Ignition)
 - The Essential Extensions
     - AppIndicator and KStatusNotifierItem Support
         - **As of 5/1, can only be installed from Fedora's repo. Fedora and Ubuntu maintain their own patch.**
