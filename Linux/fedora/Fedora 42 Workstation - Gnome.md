@@ -22,7 +22,7 @@
         - ![9abd6219e58deb72ece786c6b2af4dc0.png](9abd6219e58deb72ece786c6b2af4dc0.png)
     - Blur my shell
     - Caffeine
-    - Dash to Doc
+    - Dash to Dock
     - Space Bar
 - Add Script to be able to toggle touchpad on and off
     - Code  
