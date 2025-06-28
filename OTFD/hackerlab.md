@@ -1,3 +1,7 @@
+# Setup Lab to use with Metasploit-The Penetration Tester's Guide from No Starch Press
+[Link to the Book](https://nostarch.com/metasploit-2nd-edition)
+
+## General Notes about the Hardware. 
 - Used a spare machine that had the system requirements
     - 500gb hd
     - 16gb of ram
@@ -20,6 +24,9 @@
     - Follow the instructions off the web site
     - Once done, run `vagrant plugin install vagrant-reload`
 - Install ansible `sudo apt install ansible`
+- Setup SSH
+- Setup VNC following the guide for kali [here](https://www.kali.org/docs/general-use/novnc-kali-in-browser/)
+- Use TMux to manage the sessions and have multiple panes going. 
 
 ### Metasploitable 3
 
@@ -42,4 +49,3 @@
 # Some Post Items
 
 - it may not have created a dhcp server in VirtualBox, make sure to go add it if you plan on throwing Kali into this host only Vnet
-- I followed the instructions at https://www.kali.org/docs/general-use/novnc-kali-in-browser/ to setup noVNC, x11vnc, and SSH.  I use TMux to manage my vagrant startups and ssh/vnc settings.  When I'm done, I kill the VNC process
