@@ -4,7 +4,7 @@
 ## General Notes about the Hardware. 
 - Used a spare machine that had the system requirements
     - 500gb hd
-    - 16gb of ram
+    - 16gb of ram (should be more) 
     - i7 Seventh Generation
 - Install the latest version of Linux Mint
     - lightweight
